@@ -16,17 +16,4 @@ python
 <img width="1536" height="1080" alt="4052a2dd26f334069924f1c469a0e393-1536x1080" src="https://github.com/user-attachments/assets/f887056b-a10c-48c6-8398-cd428afdb6d5" />
 
 
-这些就是全部功能，如果想直接使用就直接用我打包好的exe文件就行。
-5、打包
-
-如果要自己打包，就需要adb.exe文件放在同一目录
-
-ADB_PATH = r"\adb.exe" 这里改成ADB_PATH = r"adb.exe"
-
-下载pyinstaller
-
-记得要改一下环境变量且环境哦。
-
-pyinstaller -F -w --add-data "adb.exe;." ADB-link-tool.py
-
-就会生成一个exe文件了。但建议源码运行，方便改动。
+这些就是全部功能
