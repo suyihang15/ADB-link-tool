@@ -17,6 +17,7 @@ python
 （2）运行python文件
 
 4、效果展示
+<img width="1536" height="1080" alt="4052a2dd26f334069924f1c469a0e393-1536x1080" src="https://github.com/user-attachments/assets/f887056b-a10c-48c6-8398-cd428afdb6d5" />
 
 
 这些就是全部功能，如果想直接使用就直接用我打包好的exe文件就行。
